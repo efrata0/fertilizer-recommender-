@@ -1,6 +1,6 @@
 pip install scikit-learn
 conda install scikit-learn
-!pip install scikit-learn
+pip install scikit-learn
 
 import numpy as np
 import pickle
