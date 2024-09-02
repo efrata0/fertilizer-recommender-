@@ -1,4 +1,5 @@
 import numpy as np
+import sklearn
 import pickle
 import pandas as pd
 #from flasgger import Swagger
